@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kr31tos</h1>
-![Banner GitHub-3-1](https://github.com/Kreitos13/Kreitos13/assets/128733106/fa1e94dd-f0cb-4047-bee5-36ef9cbdd9a2)
+<img src="https://github.com/Kreitos13/Kreitos13/assets/128733106/fa1e94dd-f0cb-4047-bee5-36ef9cbdd9a2">
 
 <h4 align="center">
 Welcome to my GitHub space! I'm a passionate student in the field of cybersecurity, exploring the vast world of information security and data protection.</h4>
