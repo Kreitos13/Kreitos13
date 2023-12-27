@@ -2,12 +2,12 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/Kreitos13/Kreitos13/assets/128733106/fa1e94dd-f0cb-4047-bee5-36ef9cbdd9a2">
 
 <h4 align="center">
-Welcome to my GitHub space🤗! I'm a passionate student in the field of cybersecurity👨‍💻, exploring the vast world of information security and data protection🛡️🔐🌐👨‍💻.</h4>
+Welcome to my GitHub space🤗! I'm a passionate student in the field of cybersecurity👨‍💻, exploring the vast world of information security and data protection🛡️🔐🌐.</h4>
 
 
 ## About Me
 
-I'm currently immersed in my academic journey as a cybersecurity student. My fascination with the digital realm and the desire to contribute to a safer environment drive me in this exciting endeavor.
+I'm currently immersed in my academic journey as a cybersecurity student🎓. My fascination with the digital realm and the desire to contribute to a safer environment drive me in this exciting endeavor.
 
 ## Areas of Interest
 
