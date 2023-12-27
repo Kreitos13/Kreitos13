@@ -17,6 +17,7 @@ I specialize in:
 - 🛡️ Cyber Threat Protection
 - 🌐 Digital Forensic Analysis
 - 🔴 Red Team
+- 🔵 Blue Team
 - 🐞 Bug Bounty
 - 🚩 CTFs
 
