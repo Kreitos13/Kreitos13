@@ -16,6 +16,7 @@ I specialize in:
 - 🔒 Network Security
 - 🛡️ Cyber Threat Protection
 - 🌐 Digital Forensic Analysis
+- 👨‍💻 Pentesting
 - 🔴 Red Team
 - 🔵 Blue Team
 - 🐞 Bug Bounty
