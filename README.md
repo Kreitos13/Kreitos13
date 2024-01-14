@@ -26,7 +26,7 @@ I specialize in:
 
 Here you can explore some of my current projects:
 
-- 🚀 Cybersecurity Introduction: An exciting project focused on creating a professional report from a WEBGOAT audit.
+- 🚀 Cybersecurity Introduction: An exciting project focused on creating a professional report from a WEBGOAT audit. [Project](https://github.com/Kreitos13/KeepCodingProjects/blob/main/Pr%C3%A1cticas/1.%20M%C3%B3dulo%20de%20introducci%C3%B3n%20a%20la%20Ciberseguridad.pdf)
 
 - 🔐 Cryptography Practice: Resolution of various technical exercises involving encryption and decryption using multiple algorithms, and in-depth utilization of modern cryptography techniques, including hashing.
 
